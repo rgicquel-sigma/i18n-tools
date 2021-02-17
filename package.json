@@ -1,0 +1,19 @@
+{
+  "name": "sigma-i18n-tools",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "bin": "dist/main.js",
+  "scripts": {
+    "build-watch": "tsc --watch",
+    "build": "tsc"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.6",
+    "typescript": "4.1.5"
+  }
+}
